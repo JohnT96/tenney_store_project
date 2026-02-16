@@ -8,7 +8,8 @@ session_start();
     <title>Tenney Tech Store</title>
 </head>
 <body>
-<h1>Welcom to Tenney Tech Store!</h1>
+<h1>Welcome to Tenney Tech Store!</h1>
 <a href="pages/catalog.php">View Catalog</a>
 </body>
 </html>
+
